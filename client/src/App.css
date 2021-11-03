@@ -1,4 +1,13 @@
-body {
-  background-color: rgb(67, 212, 118);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+section {
+  height: 100%;
+  font-family: "Verdana";
+  color: rgb(233, 227, 227);
+  overflow: hidden;
+  background: radial-gradient(ellipse at bottom, #2d4158 0%, #252a42 100%);
+}
